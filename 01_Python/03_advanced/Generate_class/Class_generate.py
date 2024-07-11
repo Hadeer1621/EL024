@@ -37,7 +37,7 @@ def generate_header_file(name , class_name , namespace):
     with open(f"{class_name}.h", "w") as file:
         file.write(header_content)
     
-    return f"{class_name}.h"
+    return header_content
 
 def generate_source_file(author,class_name,namespace):
     now = datetime.datetime.now()
@@ -70,7 +70,7 @@ def generate_source_file(author,class_name,namespace):
     with open(f"{class_name}.cpp", "w") as file:
         file.write(source_content)
     
-    return f"{class_name}.cpp"
+    return source_content
 
 Author = input("Please enter the name of the author : ")
 class_name = input("Please enter the name of the class : ")
