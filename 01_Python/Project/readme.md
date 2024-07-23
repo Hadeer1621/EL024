@@ -1,5 +1,6 @@
 
-**# Alexa "Personal Voice Assistant **
+ # **Alexa "Personal Voice Assistant **
+ 
 The launch of my latest python project **"Alexa" your personal voice assistant **
 This innovative project presents a state-of-the-art voice assistant that does more than just recognize speech. With great care, Alexa has been trained to respond to a vast array of commands that are designed to improve your everyday activities and make your chores easier. The distinctive quality of Alexa is its fluency in English, which facilitates easy communication and engagement.
 
